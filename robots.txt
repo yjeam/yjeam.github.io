@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://yjeam.github.io/Bus/sitemap.Bus.gz
